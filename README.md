@@ -13,7 +13,7 @@ yarn develop
 
 ## Audits
 
-| Metrics                  | With `react-loadable` | Without `react-loadable` |
+| Metric                   | With `react-loadable` | Without `react-loadable` |
 |--------------------------|-----------------------|--------------------------|
 | First meaningful paint   | **620 ms**            | **1,790ms**              |
 | First interactive        | 1,680ms               | 1,790ms                  |
