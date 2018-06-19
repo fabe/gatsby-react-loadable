@@ -15,7 +15,7 @@ yarn develop
 
 | Metric                   | With `react-loadable` | Without `react-loadable` |
 |--------------------------|-----------------------|--------------------------|
-| First meaningful paint   | **620 ms**            | **1,790ms**              |
+| First meaningful paint   | **620ms**             | **1,790ms**              |
 | First interactive        | 1,680ms               | 1,790ms                  |
 | Consistently Interactive | 1,680ms               | 1,790ms                  |
 
