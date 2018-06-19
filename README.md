@@ -11,6 +11,16 @@ yarn
 yarn develop
 ```
 
+## Audits
+
+| Metrics                  | With `react-loadable` | Without `react-loadable` |
+|--------------------------|-----------------------|--------------------------|
+| First meaningful paint   | **620 ms**            | **1,790ms**              |
+| First interactive        | 1,680ms               | 1,790ms                  |
+| Consistently Interactive | 1,680ms               | 1,790ms                  |
+
+65.4% faster FMP.
+
 ## Author
 
 * Fabian Schultz ([@fschultz\_](https://twitter.com/fschultz_))
