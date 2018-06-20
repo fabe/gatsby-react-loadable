@@ -19,7 +19,7 @@ yarn develop
 | First interactive        | 1,680ms               | 1,790ms                  |
 | Consistently Interactive | 1,680ms               | 1,790ms                  |
 
-65.4% faster FMP.
+65.4% faster FMP when loading in `moment`.
 
 ## Author
 
